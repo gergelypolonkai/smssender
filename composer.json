@@ -1,0 +1,14 @@
+{
+    "name": "gergelypolonkai/smssender",
+    "description": "SMS Sender class to interact with gergelypolonkai/smsgateway",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Gergely Polonkai",
+            "email": "gergely@polonkai.eu"
+        }
+    ],
+    "require": {
+
+    }
+}
