@@ -2,6 +2,10 @@
     "name": "gergelypolonkai/smssender",
     "description": "SMS Sender class to interact with gergelypolonkai/smsgateway",
     "minimum-stability": "dev",
+    "type": "library,
+    "keywords": [ "sms" ],
+    "license": "LGPL",
+    "homepage": "https://github.com/gergelypolonkai/smssender",
     "authors": [
         {
             "name": "Gergely Polonkai",
@@ -9,6 +13,10 @@
         }
     ],
     "require": {
-
+    },
+    "autoload": {
+        "psr-0": {
+            "GergelyPolonkai\\SmsSender": "lib/"
+        }
     }
 }
